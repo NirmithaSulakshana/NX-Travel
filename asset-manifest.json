@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/NX_travel_app/static/css/main.c5e8d322.css",
+    "main.js": "/NX_travel_app/static/js/main.9e59b169.js",
+    "static/js/592.0d41dffa.chunk.js": "/NX_travel_app/static/js/592.0d41dffa.chunk.js",
+    "static/media/video_01.mp4": "/NX_travel_app/static/media/video_01.ad67f05da1be7da9f80c.mp4",
+    "static/media/video_02.mp4": "/NX_travel_app/static/media/video_02.41064cc6d9b1f16a6ccb.mp4",
+    "static/media/video_02n.mp4": "/NX_travel_app/static/media/video_02n.c03d117a85969b3f697c.mp4",
+    "static/media/video_03.mp4": "/NX_travel_app/static/media/video_03.6a2dbbb93776279ffb39.mp4",
+    "static/media/img (1).jpg": "/NX_travel_app/static/media/img (1).b95a19df82ba9720f3ce.jpg",
+    "static/media/img (3).jpg": "/NX_travel_app/static/media/img (3).e8c79174f8d500b7818e.jpg",
+    "static/media/img (4).jpeg": "/NX_travel_app/static/media/img (4).ce48b7532ba9344ed192.jpeg",
+    "static/media/img (2).jpg": "/NX_travel_app/static/media/img (2).8b39b88e5728f7246a36.jpg",
+    "index.html": "/NX_travel_app/index.html",
+    "main.c5e8d322.css.map": "/NX_travel_app/static/css/main.c5e8d322.css.map",
+    "main.9e59b169.js.map": "/NX_travel_app/static/js/main.9e59b169.js.map",
+    "592.0d41dffa.chunk.js.map": "/NX_travel_app/static/js/592.0d41dffa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c5e8d322.css",
+    "static/js/main.9e59b169.js"
+  ]
+}
