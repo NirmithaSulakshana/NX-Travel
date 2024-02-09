@@ -155,3 +155,15 @@
     }
     
 }
+
+@media screen and (min-width:960px) {
+    .header{
+        .navBar{
+            .navList{
+                .navItem{
+                    padding: 0 0.7rem;
+                }
+            }
+        }
+    }
+}
