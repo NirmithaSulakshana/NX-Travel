@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/NX-Travel/static/css/main.c5e8d322.css",
-    "main.js": "/NX-Travel/static/js/main.e70b8c18.js",
+    "main.css": "/NX-Travel/static/css/main.b048428d.css",
+    "main.js": "/NX-Travel/static/js/main.58c363e6.js",
     "static/js/592.0d41dffa.chunk.js": "/NX-Travel/static/js/592.0d41dffa.chunk.js",
     "static/media/video_01.mp4": "/NX-Travel/static/media/video_01.ad67f05da1be7da9f80c.mp4",
     "static/media/video_02.mp4": "/NX-Travel/static/media/video_02.41064cc6d9b1f16a6ccb.mp4",
@@ -12,12 +12,12 @@
     "static/media/img (4).jpeg": "/NX-Travel/static/media/img (4).ce48b7532ba9344ed192.jpeg",
     "static/media/img (2).jpg": "/NX-Travel/static/media/img (2).8b39b88e5728f7246a36.jpg",
     "index.html": "/NX-Travel/index.html",
-    "main.c5e8d322.css.map": "/NX-Travel/static/css/main.c5e8d322.css.map",
-    "main.e70b8c18.js.map": "/NX-Travel/static/js/main.e70b8c18.js.map",
+    "main.b048428d.css.map": "/NX-Travel/static/css/main.b048428d.css.map",
+    "main.58c363e6.js.map": "/NX-Travel/static/js/main.58c363e6.js.map",
     "592.0d41dffa.chunk.js.map": "/NX-Travel/static/js/592.0d41dffa.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c5e8d322.css",
-    "static/js/main.e70b8c18.js"
+    "static/css/main.b048428d.css",
+    "static/js/main.58c363e6.js"
   ]
 }
