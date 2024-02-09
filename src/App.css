@@ -22,6 +22,11 @@
   --cardBG: rgb(255,255,235);
 }
 /*This is the default styling that will apply to all the secsions*/
+
+html{
+  scroll-behavior: smooth;
+}
+
 a{
   text-decoration: none;
 }

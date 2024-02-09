@@ -1,4 +1,4 @@
-import React from 'react';
+import React, {useEffect} from 'react';
 import './main.css';
 import img from '../../Assets/img (1).jpg';
 import img1 from '../../Assets/img (2).jpg';
@@ -6,6 +6,9 @@ import img2 from '../../Assets/img (3).jpg';
 import img3 from '../../Assets/img (4).jpeg';
 import { IoLocationSharp } from "react-icons/io5";
 import { LuClipboardCheck } from "react-icons/lu";
+
+import Aos from 'aos';
+import 'aos/dist/aos.css';
 
 // array name data
 
@@ -52,10 +55,16 @@ const Data =[
 ]
 
 const Main = () => {
+
+  // let's create a react hook to add a scroll animation..
+  useEffect(() =>{
+    Aos.init({duration: 2000})
+},[])
+
   return (
     <section className='main container section'>
 
-      <div className="secTitle">
+      <div data-aos ="fade-right" className="secTitle">
         <h3 className="title">
           Most visited destinations.
         </h3>
@@ -70,7 +79,7 @@ const Main = () => {
          {
             Data.map(({id,imgSrc,destination,location,grade,fees,description}) => {
               return(
-                <div key={id} className="singleDestination">
+                <div key={id} data-aos ="fade-up" className="singleDestination">
                     {/**here it will return single id from the map array */}
                     <div className="imageDiv">
                       <img src={imgSrc} alt={destination} />
