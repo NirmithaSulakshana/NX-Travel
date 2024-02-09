@@ -131,4 +131,9 @@
   .header .navBar .navList .navItem {
     padding: 0 0.7rem;
   }
+}
+@media screen and (min-width: 1240px) {
+  .header {
+    padding: 1rem 8.5rem;
+  }
 }/*# sourceMappingURL=navbar.css.map */
